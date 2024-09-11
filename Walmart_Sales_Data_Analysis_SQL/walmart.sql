@@ -1,3 +1,4 @@
+-- By Madireddy Bharath Kumar Reddy
 -- Create database
 CREATE DATABASE IF NOT EXISTS walmartSaless;
 use walmartSaless;
