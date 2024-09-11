@@ -1,3 +1,4 @@
+-- By Madireddy Bharath Kumar Reddy
 create database myasq;
 use myasq;
 -- 1	Show all columns and rows in the table.
